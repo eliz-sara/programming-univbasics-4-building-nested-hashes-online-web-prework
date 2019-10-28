@@ -9,7 +9,6 @@ def monopoly_with_second_tier
   monopoly = {
     railroads: {purchase}
   }
-   We're going to add stuff to it here!
   monopoly = {
     railroads: {
       pieces: 4,
